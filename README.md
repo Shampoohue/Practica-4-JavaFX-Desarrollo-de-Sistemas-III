@@ -2,7 +2,7 @@ Práctica 4: javafx
 
 Creador: yo (Gerardo Tapia F.)
 
-Este proyecto es una práctica sencilla que funge de introduccion al manejo de javafx para hacer interfaces graficas (GUI) en este caso deun sistema que gestiona empleados.
+Este proyecto es una práctica sencilla que funge de introducción al manejo de javafx para hacer interfaces gráficas (GUI) en este caso de un sistema que gestiona empleados.
 <img width="1051" height="1002" alt="image" src="https://github.com/user-attachments/assets/05dddb77-1892-4c9a-827c-31f782710173" />
 
 Para poder ejecutar el proyecto se instala la release mas reciente y se tiene que tener una version de java 24 o superior.
